@@ -1,0 +1,5 @@
+C:\Users\worver\RiderProjects\RickleThePickle\RickleThePickle\bin\Debug\RickleThePickle.exe
+C:\Users\worver\RiderProjects\RickleThePickle\RickleThePickle\bin\Debug\RickleThePickle.pdb
+C:\Users\worver\RiderProjects\RickleThePickle\RickleThePickle\obj\Debug\RickleThePickle.csprojResolveAssemblyReference.cache
+C:\Users\worver\RiderProjects\RickleThePickle\RickleThePickle\obj\Debug\RickleThePickle.exe
+C:\Users\worver\RiderProjects\RickleThePickle\RickleThePickle\obj\Debug\RickleThePickle.pdb
